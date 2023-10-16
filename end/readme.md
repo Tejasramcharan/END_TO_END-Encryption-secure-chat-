@@ -1,8 +1,4 @@
-# End To End Encrypted Secure Chat Application
-> This is a secure chat application made using node and socket.io
-<!-- > Live demo [_here_](https://www.example.com). If you have the project hosted somewhere, include the link here. -->
-
-## Table of Contents
+table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
@@ -32,33 +28,8 @@
 - Cryptographic implementations for storing passwords as well as end to end encryption
 
 
-## Screenshots
-![Screenshot 1](./Screenshots/1.png)
-![Screenshot 2](./Screenshots/2.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
-## Setup
-MongoDB server should be started at port 27017
-Initialize npm to download required files
-
-
-## Usage
-After setup,
-`node server.js` does the work.
-
-
-## Project Status
-Project is: _Complete_ 
 
 
 
-## Contact
-Created by [Shriram Pareek](https://github.com/Shrirampareek888), [Kishan Partani](https://github.com/KishanPartani), [Tejas Pradhan](https://github.com/tejaspradhan), [Aditya Pangaonkar](https://github.com/Adi306) and [Balaji Padamwar](https://github.com/balaji1608) - feel free to contact us!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
